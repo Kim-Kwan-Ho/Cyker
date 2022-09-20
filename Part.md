@@ -1,4 +1,16 @@
 # Cyker
+
+## All
+
+|보관장소|스크립트 이름|설명|
+|:----:|:----:|:----:|
+|Sound|SoundVibOnOff|사운드 및 진동On/Off|
+|UI|UiBtn|몇가지를 제외한 모든 버튼관리|
+|Player|PlayerLSwitch|가이드 라인, 발사 힘, 유닛 선택 관련|
+|Player|PlayerRSwitch|유닛 구매, 유닛 발사 및 스킬사용|
+|GameScene|GameMgr|각종 재화, 게임 진행상태, UI표시 관리|
+
+
 ## Kim Kwan Ho 
 
 |보관장소|스크립트 이름|설명|
@@ -41,12 +53,3 @@
 |TutorialScene|EnemyRespawn|Tutorial용 적 스폰|
 |TutorialScene|UnitFireGuide|Tutorial용 객체 관리|
 
-## All
-
-|보관장소|스크립트 이름|설명|
-|:----:|:----:|:----:|
-|Sound|SoundVibOnOff|사운드 및 진동On/Off|
-|UI|UiBtn|몇가지를 제외한 모든 버튼관리|
-|Player|PlayerLSwitch|가이드 라인, 발사 힘, 유닛 선택 관련|
-|Player|PlayerRSwitch|유닛 구매, 유닛 발사 및 스킬사용|
-|GameScene|GameMgr|각종 재화, 게임 진행상태, UI표시 관리|
